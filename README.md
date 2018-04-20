@@ -1,4 +1,4 @@
-# Real World Data Insights with Excel Python
+# Real World Data Insights with Python
 
 This data from an online hospitality company that provides rental vacation places around the world over 190 countries. 
 
